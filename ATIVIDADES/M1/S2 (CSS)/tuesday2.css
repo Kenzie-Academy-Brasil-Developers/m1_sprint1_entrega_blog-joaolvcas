@@ -1,0 +1,23 @@
+.box {
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.conteiner__form {
+  border: solid 2px black;
+  background-color: rgb(238, 231, 231);
+  padding: 50px 30px 60px 30px;
+}
+.conteiner__form-title {
+  padding: 5px;
+}
+.conteiner__form-email {
+  padding: 5px;
+}
+.conteiner__form-button {
+  background-color: #09a709;
+  padding: 5px;
+}
+

@@ -1,0 +1,26 @@
+ul{
+    list-style: none;
+    font-size: 0;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: #ffff;
+  }
+  ul li{
+    display: inline-block;
+  
+  }
+  ul li a{
+    color: #ffff;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  li{
+    border: solid 1px #00f ;
+    margin: 10px;
+    padding: 5px;
+    background-color: #00f;
+    color: #000;
+  } 
